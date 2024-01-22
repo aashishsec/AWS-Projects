@@ -1,2 +1,4 @@
 # Cloud Projects
-This are the list of my Cloud Projects.
+These are my list of my Cloud Projects.
+
+- AWS 

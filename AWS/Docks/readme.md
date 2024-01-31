@@ -31,8 +31,6 @@ sudo apt update
 1. Clone this project in the remote VM
 ```
 ```
-"
-```
 > For this project, we'll have to set up an [Elastic IP Address](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html) for our EC2 & that would be our `DOMAIN`
 
 3. Initialise and start the project

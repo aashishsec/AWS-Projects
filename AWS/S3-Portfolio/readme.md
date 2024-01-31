@@ -3,7 +3,6 @@
 - [Project Link](#)
 - [Documentation Link](https://aashishsec.github.io/CloudProjects/AWS/S3-Portfolio/)
  
-![image](https://github.com/aashishsec/CloudProjects/assets/65489287/ad0b749e-4b8b-4a5c-9723-5f28cb5616ca)
 
 ### Set up an AWS S3 instance
 
@@ -44,7 +43,8 @@
 ```
 10. Enable the static website hosting and add index document.
 ![image](https://github.com/aashishsec/CloudProjects/assets/65489287/b0d07f21-ebcc-4f1c-af9e-47422928459d)
-11. Now we can able to access the our portfolio.
+![image](https://github.com/aashishsec/CloudProjects/assets/65489287/ad0b749e-4b8b-4a5c-9723-5f28cb5616ca)
+12. Now we can able to access the our portfolio.
 - [Link](https://myprofolio-31jan.s3.ap-south-1.amazonaws.com/PortFolio/index.html)
 ![image](https://github.com/aashishsec/CloudProjects/assets/65489287/d2894467-6228-41f6-b8d3-5f1e5f9d997f)
 ![image](https://github.com/aashishsec/CloudProjects/assets/65489287/133cc5c9-f74c-4dc8-9580-f626760aab0f)

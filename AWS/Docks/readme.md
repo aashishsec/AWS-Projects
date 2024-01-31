@@ -1,7 +1,7 @@
 # Deploying a Simple Front-end Application **MyDocks** on AWS EC2
 
-[Project Link](#)
-[Documentation Link](https://aashishsec.github.io/CloudProjects/AWS/Docks/)
+- [Project Link](#)
+- [Documentation Link](https://aashishsec.github.io/CloudProjects/AWS/Docks/)
  
 ### This are the Docks that i use for reconnaissance.
 

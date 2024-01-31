@@ -1,8 +1,9 @@
-![image](https://github.com/aashishsec/CloudProjects/assets/65489287/ad0b749e-4b8b-4a5c-9723-5f28cb5616ca)# Deploying My PortFolio  on AWS S3
+# Deploying My PortFolio  on AWS S3
 
 - [Project Link](#)
 - [Documentation Link](https://aashishsec.github.io/CloudProjects/AWS/S3-Portfolio/)
  
+![image](https://github.com/aashishsec/CloudProjects/assets/65489287/ad0b749e-4b8b-4a5c-9723-5f28cb5616ca)
 
 ### Set up an AWS S3 instance
 

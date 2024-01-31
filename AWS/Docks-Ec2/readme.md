@@ -48,7 +48,7 @@ sudo apt update
    
 ![image](https://github.com/aashishsec/CloudProjects/assets/65489287/f72e054d-9bd2-4a6a-8cc9-e94f309936bb)
 
-4. Python is installed lets start a simple http server using python.
+3. Python is installed lets start a simple http server using python.
    
 ```
 python3 -m http.server 80
@@ -57,12 +57,12 @@ python3 -m http.server 80
 4. I did not navigated into the Docks folder. So I have to kill the process.
 ![image](https://github.com/aashishsec/CloudProjects/assets/65489287/06ca67a9-c363-4e9e-b5a1-438697acade6)
 
-5. change to Docks
+5. Change the directory to Docks.
 ```
 cd Docks
 ```
 
-6. Start the python server
+6. Start the python server in Docks directory.
 ```
 python3 -m http.server 8000
  ```

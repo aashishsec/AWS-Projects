@@ -42,7 +42,6 @@
 
 ```
 10. Enable the static website hosting and add index document.
-![image](https://github.com/aashishsec/CloudProjects/assets/65489287/b0d07f21-ebcc-4f1c-af9e-47422928459d)
 ![image](https://github.com/aashishsec/CloudProjects/assets/65489287/ad0b749e-4b8b-4a5c-9723-5f28cb5616ca)
 12. Now we can able to access the our portfolio.
 - [Link](https://myprofolio-31jan.s3.ap-south-1.amazonaws.com/PortFolio/index.html)

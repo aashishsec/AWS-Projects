@@ -66,11 +66,6 @@ cd Docks
 ![image](https://github.com/aashishsec/CloudProjects/assets/65489287/a9caadf5-a162-43e7-8908-3cf85566826f)
 10. Let's try again.
 
-
-> For this project, we'll have to set up an [Elastic IP Address](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html) for our EC2 & that would be our `DOMAIN`
-
-3. Initialise and start the project
+- For this project, we'll have to set up an [Elastic IP Address](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html) for our EC2 & that would be our `DOMAIN`
    
-> NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
-
 ### Project is deployed on AWS 🎉

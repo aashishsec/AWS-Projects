@@ -31,7 +31,6 @@ sudo apt update
 ![image](https://github.com/aashishsec/CloudProjects/assets/65489287/59d42815-57f2-4031-8f8a-798114af1308)
 
 2. Install Git - [Guide by DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-22-04)
-   
 
 ### Deploying the project on AWS
 
@@ -48,8 +47,7 @@ sudo apt update
 3. Python is installed lets start a simple http server using python.
    
 ```
-  python3 -m http.server 80
-
+python3 -m http.server 80
  ```
 
 4. I did not navigated into the Docks folder. So I have to kill the process.

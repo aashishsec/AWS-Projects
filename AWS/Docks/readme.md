@@ -20,6 +20,7 @@
 ```
 ssh -i instance.pem ubunutu@<IP_ADDRESS>
 ```
+![image](https://github.com/aashishsec/CloudProjects/assets/65489287/7e9b1075-3a41-4897-926c-16e69ca2b2a1)
 
 ### Configuring Ubuntu on remote VM
 
@@ -46,7 +47,7 @@ sudo apt update
 
 3. Python is installed lets start a simple http server using python.
 ```
-  python3 -m http.server 8000
+  python3 -m http.server 80
  ```
 4. I did not navigated into the Docks folder. So I have to kill the process.
 ![image](https://github.com/aashishsec/CloudProjects/assets/65489287/06ca67a9-c363-4e9e-b5a1-438697acade6)
@@ -65,6 +66,10 @@ cd Docks
 9. Allow 8000 port to get requests from internet.
 ![image](https://github.com/aashishsec/CloudProjects/assets/65489287/a9caadf5-a162-43e7-8908-3cf85566826f)
 10. Let's try again.
+![image](https://github.com/aashishsec/CloudProjects/assets/65489287/bd2629c2-8618-4cf4-860c-0af0d7242205)
+![image](https://github.com/aashishsec/CloudProjects/assets/65489287/7dc6b238-bd57-4b4f-951c-cd3d8e84e6cf)
+11. My Application was working properly.
+![image](https://github.com/aashishsec/CloudProjects/assets/65489287/12fd25ec-2ed5-4cba-87f2-cf0326d88f9b)
 
 - For this project, we'll have to set up an [Elastic IP Address](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html) for our EC2 & that would be our `DOMAIN`
    
